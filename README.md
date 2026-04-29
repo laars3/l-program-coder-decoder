@@ -20,7 +20,7 @@ Built for Theory of Computation course, implements the formal coding and decodin
 ## built with
 
 - React + TypeScript + Vite
-- no external libraries — all math implemented from scratch using native `BigInt`
+- no external libraries, all math implemented from scratch using native `BigInt`
 
 ## live
 
