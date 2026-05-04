@@ -1,6 +1,6 @@
 # L-Program Coder / Decoder
 
-A web app that encodes and decodes programs written in the theoretical language **L**.
+A web app that encodes and decodes programs written in the theoretical language 'L'.
 
 Built for Theory of Computation course, implements the formal coding and decoding functions covered in class.
 
@@ -30,3 +30,4 @@ Built for Theory of Computation course, implements the formal coding and decodin
 
 Built by: Lars Ponikvar  
 For: Professor Ronald W. Fechter
+Inspired by: Ronald W. Fechter and Dr. Martin Davis
